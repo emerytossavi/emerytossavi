@@ -54,4 +54,7 @@
 
 ---
 
-🔥 Merci d'avoir visité mon profil !
+🔥 Merci d'avoir visité mon profil !  
+
+<p>Nombre de visites:</p>
+<p><img src="https://profile-counter.glitch.me/emerytossavi/count.svg" alt="Compteur de visites" /></p>

@@ -2,7 +2,7 @@
 
 (Cliquez ici pour switcher : [🔄🇫🇷](./README.fr.md))
 
-[![fr](https://img.shields.io/badge/lang-en🇺🇸-red.svg)](README.fr.md)
+[![fr](https://img.shields.io/badge/lang-fr🇫🇷-blue.svg)](README.fr.md)
 
 # Hi, I'm Eméry TOSSAVI 👋
 
@@ -52,3 +52,6 @@
 ---
 
 🔥 Thanks for visiting my profile!
+
+<p>Number of visits:</p>
+<p><img src="https://profile-counter.glitch.me/emerytossavi/count.svg" alt="Visitor Counter" /></p>
