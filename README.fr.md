@@ -20,9 +20,9 @@
 ## 🛠️ Compétences
 
 - **Langages :** PHP, JS, Python, HTML5, CSS3, SQL
-- **Frameworks & Outils :** Laravel, Bootstrap, Symfony, Electron, Git, GitHub
-- **Bases de données :** MySQL, SQLite
-- **Autres domaines :** Cybersécurité,  Systemes d'exploitation, OSINT, Géomatique, Géolocalisation, SEO  
+- **Frameworks & Outils :** Laravel, Vue.js, React, Nest.js, Bootstrap, Symfony, Electron, Git, GitHub
+- **Bases de données :** MySQL, PostgreSQL, SQLite, MongoDB
+- **Autres domaines :** Cybersécurité,  Systemes d'exploitation, OSINT, Géomatique, Géolocalisation, SEO, Sécurité des applications web
 - **Soft Skills :** Curiosité, Esprit d'analyse, Autonomie
 
 ---
@@ -47,10 +47,11 @@
 
 ## 📫 Me contacter
 
-- **Email :** emerytossavi@gmail.com  
-- **LinkedIn :** [Emery TOSSAVI](https://www.linkedin.com/in/emery-tossavi/)  
-- **Reddit:** [u/Jemet-VJ](https://www.reddit.com/u/Jemet-VJ/)  
-- **Portfolio / Site perso :** [à venir]()
+- **Email :** `emerytossavi@gmail.com` | `emery.tossavi@epitech.eu`
+- **LinkedIn :** [Emery TOSSAVI](https://www.linkedin.com/in/emery-tossavi/)
+- **𝕏 :** [Emery TOSSAVI](https://twitter.com/emerytossavi)
+- **Reddit :** [u/Jemet-VJ](https://www.reddit.com/u/Jemet-VJ/)  
+  [**Consulter mon portfolio !!**](https://emery-tossavi.dev)
 
 ---
 
